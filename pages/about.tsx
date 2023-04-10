@@ -1,6 +1,5 @@
 import { MainLayout } from '@/components/layout';
 import { NextPageWithLayout } from '@/models';
-import React from 'react';
 
 const AboutPage: NextPageWithLayout = () => {
   return (
